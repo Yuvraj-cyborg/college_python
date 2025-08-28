@@ -8,3 +8,4 @@ This repository contains Python assignment questions from my college coursework.
 - **Assignment 3: Loops** - Introduces `for` and `while` loops.
 - **Assignment 4: List and Strings** - Covers `list` and `string` manipulation.
 - **Assignment 5: Tuple and String** - Covers `tuple` and `string` manipulation.
+- **Assignment 6: Dictionary** - Covers `dictionary` operations.`
